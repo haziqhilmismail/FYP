@@ -53,7 +53,7 @@ kiwisolver==1.4.5
 langcodes==3.3.0
 markdown-it-py==3.0.0
 MarkupSafe
-matplotlib==3.3.4
+matplotlib
 matplotlib-inline
 mdurl==0.1.2
 metric-visualizer==0.9.9
