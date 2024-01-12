@@ -94,7 +94,7 @@ PySocks
 python-dateutil
 pytorch-warmup==0.1.1
 pytz==2023.3.post1
-pywin32==305
+pywin32==305.1; platform_system=="Windows"
 PyYAML
 pyzmq
 referencing==0.32.1
