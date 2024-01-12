@@ -1,4 +1,4 @@
-0,VADER_neg,VADER_neu,VADER_pos,VADER_compound,VADER_Sentiment
+Sentence,VADER_neg,VADER_neu,VADER_pos,VADER_compound,VADER_Sentiment
 "Invite the people to boycott the upcoming box office movies that will be released soon . Don't forget that the movie industry is also their biggest contributor , what's more , the movie Wonder Woman clearly shows the perpetrators of the Jewish race . Try to see the movie in the Mat Kilau country box office in our country alone , how much has it collected . ",0.094,0.818,0.089,-0.0859,Negative
 "JUST LAST YEAR THE MOVIE MAT KILAU OI CAME OUT! LIKE OR HATE THAT MOVIE IT'S A MOVIE LITERALLY ABOUT OUR ANCESTORS FIGHTING BRITISH COLONIZERS , APA BEBAL NAK NEUTRAL2 WHEN A LITERAL GENOCIDE IS HAPPENING! THOSE WHO SUPPORT THE COLONIST AGAIN CAN REMOVE IT! PTUI!",0.143,0.756,0.101,-0.4885,Negative
 Watched Mat Kilau for Friday night movie and then waved the flag on Sunday for the Prince . Some aunt,0.0,1.0,0.0,0.0,Neutral
