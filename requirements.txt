@@ -89,7 +89,7 @@ pydantic_core==2.14.6
 pydeck==0.8.1b0
 Pygments
 pyOpenSSL
-pyparsing==3.1.1
+pyparsing
 PySocks
 python-dateutil
 pytorch-warmup==0.1.1
