@@ -1,6 +1,6 @@
 altair==5.2.0
 annotated-types==0.6.0
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+asttokens 
 attrs==23.2.0
 autocuda==0.16
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
