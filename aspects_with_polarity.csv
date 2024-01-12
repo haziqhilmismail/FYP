@@ -2,11 +2,11 @@ Aspect,Polarity
 history,Negative
 plot,Positive
 historical,Positive
-Story,Positive
-Plot,Positive
-Script,Positive
-Cinematography,Positive
-Acting,Positive
+story,Positive
+plot,Positive
+script,Positive
+cinematography,Positive
+acting,Positive
 mat,Negative
 mat,Neutral
 quality,Positive
@@ -19,7 +19,7 @@ t,Neutral
 movie,Positive
 plot,Positive
 . . if it,Neutral
-Dialogue,Neutral
+dialogue,Neutral
 story line,Neutral
 cinema,Negative
 story line,Positive
@@ -27,7 +27,7 @@ cinematography,Negative
 camera,Negative
 quality,Positive
 quality,Positive
-It 2 - 1 . 90,Neutral
+it 2 - 1 . 90,Neutral
 star,Negative
 syamsul,Positive
 story,Negative
@@ -50,11 +50,11 @@ narration,Positive
 cinematography,Positive
 market,Positive
 quality,Negative
-Diana,Negative
+diana,Negative
 acting,Negative
-OST,Negative
+ost,Negative
 historical,Negative
-Production,Positive
+production,Positive
 imaginur,Positive
 storyline,Positive
 cinematography,Positive
@@ -63,7 +63,7 @@ narrative,Negative
 quality,Negative
 story,Positive
 stories,Negative
-FACIST,Positive
+facist,Positive
 mat,Positive
 script,Positive
 plot,Positive
@@ -75,13 +75,13 @@ box,Neutral
 cameraman,Positive
 fighting,Positive
 "j ) . """,Neutral
-Mat,Negative
+mat,Negative
 films,Negative
 quality,Negative
 mat,Negative
 sexual,Positive
-Thor,Positive
-37 . 41M,Neutral
+thor,Positive
+37 . 41m,Neutral
 director,Negative
 mat,Negative
 actor,Positive
@@ -101,7 +101,7 @@ camera,Negative
 wkwkwkwk,Negative
 animation,Positive
 plot,Positive
-History,Positive
+history,Positive
 historically,Negative
 sound effect,Negative
 cabinet,Negative
@@ -114,11 +114,11 @@ factually,Negative
 story,Negative
 film,Negative
 historically,Negative
-Mat,Negative
+mat,Negative
 movies,Negative
 racism,Negative
 movie,Negative
-Kilau,Neutral
+kilau,Neutral
 mat,Negative
 racism,Negative
 boy,Neutral
@@ -131,7 +131,7 @@ mat,Neutral
 history,Neutral
 night,Negative
 audience,Positive
-Movie,Positive
+movie,Positive
 tok,Negative
 narration,Negative
 story,Negative
@@ -139,12 +139,12 @@ story,Negative
 mat,Negative
 character,Negative
 quality,Negative
-Script,Positive
-Cinematography,Positive
+script,Positive
+cinematography,Positive
 movie editing,Positive
 storyline,Positive
 actors,Positive
-Mat,Positive
+mat,Positive
 movie,Positive
 story,Positive
 fight choreography,Negative
@@ -196,9 +196,9 @@ script,Positive
 mat,Positive
 dialogue,Positive
 plot,Positive
-Fast,Positive
+fast,Positive
 movie,Positive
-The,Positive
+the,Positive
 romance,Positive
 character,Positive
 movies,Negative
@@ -210,30 +210,30 @@ story,Negative
 history,Negative
 character,Negative
 scripts,Neutral
-Actor,Negative
+actor,Negative
 cinematography,Neutral
 dialogue,Neutral
 storyline,Neutral
 history,Positive
-Mat Kilau,Negative
+mat kilau,Negative
 cast,Negative
 script,Negative
 production,Negative
 sound effects,Negative
 writing,Negative
-Sikh,Negative
+sikh,Negative
 wifi,Positive
-Mat Kilau,Negative
+mat kilau,Negative
 camera,Negative
 script,Negative
 mat,Negative
 story,Neutral
-Camera,Neutral
+camera,Neutral
 camera,Negative
 storyline,Negative
-"Phm """,Neutral
-Mat Kilau,Negative
-Story line,Negative
+"phm """,Neutral
+mat kilau,Negative
+story line,Negative
 fight scene,Negative
 script,Negative
 dialogue,Negative
@@ -242,10 +242,10 @@ film quality,Negative
 plot,Positive
 mat,Negative
 ' m,Neutral
-Thor,Negative
-Fighting,Negative
-Malays .,Neutral
-Fighting,Neutral
+thor,Negative
+fighting,Negative
+malays .,Neutral
+fighting,Neutral
 cinematic,Positive
 sound,Positive
 dialogue,Positive
@@ -267,26 +267,26 @@ quality,Positive
 netflix,Positive
 movie,Negative
 dialogue,Negative
-Mat Kilau,Negative
+mat kilau,Negative
 performance,Negative
 movie,Positive
 sound effect,Negative
 actors,Positive
 story,Positive
 camera,Positive
-Technical,Negative
+technical,Negative
 scripts,Negative
 story,Negative
 script,Negative
 the acting,Negative
-Movie,Positive
+movie,Positive
 actors,Positive
 props,Positive
 choreography,Positive
 camera,Positive
 movie,Negative
-Color,Negative
-Cameraworks,Negative
+color,Negative
+cameraworks,Negative
 acting,Negative
 cinematography,Negative
 writing,Negative
@@ -336,7 +336,7 @@ actors,Positive
 acting,Positive
 action,Neutral
 quality,Positive
-CGI,Negative
+cgi,Negative
 script,Negative
 action scene,Negative
 character development,Negative
@@ -358,7 +358,7 @@ script,Negative
 fight,Negative
 netflix,Neutral
 camera,Negative
-Actors,Positive
+actors,Positive
 acting,Positive
 camera time,Positive
 mat,Positive
@@ -372,7 +372,7 @@ story,Positive
 dialogue,Positive
 history,Neutral
 history,Negative
-Mat,Negative
+mat,Negative
 camera,Negative
 story,Negative
 script,Negative
@@ -386,7 +386,7 @@ personality,Positive
 script,Positive
 """",Neutral
 ending,Positive
-Mat,Negative
+mat,Negative
 film,Negative
 biopic,Negative
 historical,Negative
@@ -397,7 +397,7 @@ pacing,Negative
 dialogue,Negative
 historical,Negative
 camera,Negative
-Character,Negative
+character,Negative
 story,Negative
 actors,Positive
 crew,Positive
@@ -426,14 +426,14 @@ story,Positive
 howling,Negative
 story,Positive
 colonial,Positive
-Script,Negative
+script,Negative
 plot,Negative
 acting,Negative
 storyline,Positive
 dialogue,Positive
 acting,Positive
 camera,Negative
-Mat,Positive
+mat,Positive
 story line,Positive
 color,Positive
 cinematography,Positive
@@ -447,22 +447,22 @@ sound effect,Negative
 film,Negative
 action,Negative
 stupid,Neutral
-Kilau,Positive
+kilau,Positive
 camera,Positive
 background,Positive
 action,Positive
 shaking,Positive
 dialogue,Positive
-Cinematography,Positive
+cinematography,Positive
 mat,Negative
 story,Negative
 script,Positive
 editing,Positive
-Left,Negative
+left,Negative
 editing,Positive
 actors,Positive
 public,Negative
-BRO,Positive
+bro,Positive
 physics,Neutral
 director,Negative
 mat,Negative
@@ -472,7 +472,7 @@ language,Positive
 "movies """,Neutral
 technical,Positive
 shaking camerawork,Negative
-Character,Positive
+character,Positive
 technology,Positive
 fight scene,Negative
 camera,Negative
