@@ -13,6 +13,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+nltk.download('vader_lexicon')
+
 # Load the state dict
 state_dict_path = 'state_dict_model_FACT_LCF_ATEPC/fast_lcf_atepc_custom_dataset_cdw_apcacc_61.54_apcf1_61.44_atef1_69.33/'
 
