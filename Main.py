@@ -5,6 +5,7 @@ from pyabsa import AspectTermExtraction as ATEPC
 from nltk.sentiment import SentimentIntensityAnalyzer
 import matplotlib.pyplot as plt
 import plotly.express as px
+import nltk
 
 st.set_page_config(
     page_title="ABSA for Mat Kilau",
