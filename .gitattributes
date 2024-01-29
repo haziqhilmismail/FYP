@@ -1,1 +1,0 @@
-*.state_dict filter=lfs diff=lfs merge=lfs -text
